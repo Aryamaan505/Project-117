@@ -1,0 +1,31 @@
+body{
+    background-color: orange;
+}
+
+h1{
+    color: rgb(123,136,0);
+    background-color: rgb(255, 251, 0);
+}
+ #show_sketch{
+     float: right;
+ }
+
+canvas{
+   border: 5px solid whitesmoke;
+   border-radius: 20px; 
+    animation-name: adlknsjhgke;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    margin-top: 50px;
+  }
+
+  @keyframes adlknsjhgke{
+      from{box-shadow: 6px 5px red, -1em 0 .4em olive;}
+      to{box-shadow: 3px 3px rgba(34, 255, 14, 0.911), -1em 0 .4em rgba(15, 227, 255, 0.87);}
+  }
+
+p{
+    padding-top:10px ;
+    font-size: 25px;
+
+}
